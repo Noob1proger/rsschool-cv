@@ -11,6 +11,6 @@ Home task
 
 4. English level: A1.
 
-***
+___
 
-![My foto](D:\Старый веник Samsung\yx\учеба\Анкеты\Green Card\DV-2020\600-600.jpg)
+![Avatar](https://abrakadabra.fun/uploads/posts/2022-03/1646811598_3-abrakadabra-fun-p-ava-programmista-7.jpg)
