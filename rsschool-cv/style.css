@@ -1,0 +1,97 @@
+body 
+{
+    font-family: 'Roboto', sans-serif;
+    min-height: 100vh;
+    margin: 0; padding: 0;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.container 
+{
+    max-width: 1440px;
+    margin: 0 auto;
+    min-height: 50px;
+ }
+
+* 
+{
+    box-sizing: border-box;
+}
+
+.nav-list {
+    display: flex;
+    list-style: none;   
+  }
+
+.nav-link {
+    text-decoration: none;
+    align-items: center;
+    padding: 0 20px;
+    line-height: 50px;
+    color: #829985;
+  }
+  
+html {
+    scroll-behavior: smooth; 
+  }
+
+.header {
+    background-color: #000000;
+    font-size: 24px;
+    z-index: 100;
+  top: 0;
+  left: 0;
+  }
+
+.nav-link:hover {
+    color: #a51818;
+    transition: color 2s;
+}
+
+.footer {
+    background-color: #815727;
+    padding: 20px;
+}
+
+.footer-box {
+display: flex;
+justify-content: space-around;
+align-items: center;
+margin: 0 auto;
+color: #fff;
+}
+
+.my-github {
+    text-decoration: none;
+    padding: 0;
+    line-height: 0;
+    color: #1000a3;
+}
+
+.rss {
+    width: 121px;
+    height: 45px;
+    background-image: url("https://rs.school/images/rs_school_js.svg");
+    background-size: contain;
+    background-repeat: no-repeat;
+    border: 2px dotted #000;
+}
+
+.image { width: 300px;
+    height: 200px;
+}
+
+
+.box-name {
+	border: 5px solid #a51818;
+	justify-content: space-around;
+	width: 100%;
+	padding: 50px;
+	}
+
+.section {
+	width: 100%;
+	padding: 50px;
+	}
